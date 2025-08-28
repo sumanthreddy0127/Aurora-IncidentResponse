@@ -171,6 +171,3 @@ Even though this is a side and weekend project it's still good to know, that my 
 * Ernesto
 * Thomas
 
-The following people have contributed changes that have a significant impact on the tool:
-
-* Félix Brezo, Ph. D. (working on visualization parts)
